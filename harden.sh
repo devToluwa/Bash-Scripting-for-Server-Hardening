@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "hello friends :)"
+sleep 30
 
 set -euo pipefail
 export DEBIAN_FRONTEND=noninteractive
